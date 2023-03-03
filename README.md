@@ -1,6 +1,5 @@
-# ClosedFishingAreasABM
 
-# *An agent-based model to assess the impact of non-pharmaceutical interventions on the spread of COVID-19 for Dakar region, Senegal*
+# *Effects of Configuration, Timing, and Duration of Closed Fishing Areas on the Ecological and Economic Sustainability of the Artisanal Sardinella Fishery in Ghana*
 
 ## Purpose 
 
