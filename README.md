@@ -3,8 +3,7 @@
 
 ## Purpose 
 
-Our model was designed to explore the efficacy of non-pharmaceutical interventions in mitigating the COVID-19 infection. Specifically, we examine ways in which interaction is impacted by different social distancing measures (such as social radius, lock-down, and contact tracing, wearing face mask)  as well as the capacity of the health systems in light of variability in public trust (and consequent compliance) in policymakers. The model consist of three key components : (I) a street network of the area of interest (environment), (II) agents who move along the street networks according to Dijkstra algorithm, and (III) SEIRS  (Susceptible - Exposed - Infectious - Recovered - Susceptible) disease model. 
-
+With this proposal, I plan to adapt a spatially explicit Agent-Based Model (ABM) that captures the main characteristics of an idealised artisanal fishery to the specific Ghanaian sardinella case. I will then use the model to investigate the combined effects of different sardinella management policies based on different features of closing, including (1) spatial configurations (closure of whole fishing ground versus closure of spawning hotspots), timing, and duration.  More specifically, I will use the model as a virtual laboratory to determine the policy (in terms of configuration, timing, and duration) that can optimize, simultaneously, ecological and socioecenomic needs. Given that many artisanal fisheries in Africa share various characteristics, this case study can provide indications and inspirations well beyond the local problem in Ghana. 
 
 <p align="center">
 	<img src="standard_simulation.gif" width="600">
