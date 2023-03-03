@@ -219,12 +219,10 @@ Crooks, A. and Hailegiorgis, A. [Disease modeling within refugee camps: A multi-
 
 Dr. Kwabena Afriyie, Owusu \
 University of Energy and Natural Resources (UENR) \
-School of Sciences, Dept. of Mathematics and Statistics \
-Post Office Box 214, Sunyani Ghana, West Africa \       
+Post Office Box 214, Sunyani Ghana, West Africa        
 kwabena@aims.edu.gh 
 	
-Prof. Mouhamed Moustapha Fall \
-President of the [African Institute for Mathematical Sciences](https://www.aims-senegal.org/) (AIMS-Senegal) \
-Humboldt Endowed Chair in Mathematics and its Applications at  AIMS-Senegal \
-AIMS-Senegal  KM 2, Route de Joal  B.P. 14 18 Mbour, Senegal     
-mouhamed.m.fall@aims-senegal.org 	
+Prof. Agostino Merico \
+Constructor University Bremen \
+Fahrenheitstr. 8, 28359, Bremen, Germany   
+agostino.merico@leibniz-zmt.de
