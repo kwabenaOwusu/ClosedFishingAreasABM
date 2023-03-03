@@ -3,13 +3,14 @@
 
 ## Purpose 
 
+This is a prototype of an ABM that I plan to 
 With this proposal, I plan to adapt a spatially explicit Agent-Based Model (ABM) that captures the main characteristics of an idealised artisanal fishery to the specific Ghanaian sardinella case. I will then use the model to investigate the combined effects of different sardinella management policies based on different features of closing, including (1) spatial configurations (closure of whole fishing ground versus closure of spawning hotspots), timing, and duration.  More specifically, I will use the model as a virtual laboratory to determine the policy (in terms of configuration, timing, and duration) that can optimize, simultaneously, ecological and socioecenomic needs. Given that many artisanal fisheries in Africa share various characteristics, this case study can provide indications and inspirations well beyond the local problem in Ghana. 
 
 
 		
 
 <p align="center">
-   <img src="Figure.png" width="650">
+   <img src="Figure.png" width="500">
    <br>      
       <em>  Flow diagram illustrating the events handled by the agent-based model over a day. The oval, diamonds, and rectangles mark, respectively, the initialization, the decision, and the action occurring during the simulations. The arrow shows the direction of the events.     </em>   
 </p>
