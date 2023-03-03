@@ -10,7 +10,7 @@ With this proposal, I plan to adapt a spatially explicit Agent-Based Model (ABM)
 		
 
 <p align="center">
-   <img src="Figure.png" width="650">
+   <img src="Figure.png" width="600">
    <br>      
       <em>  Simulated inshore fishing area reflecting different configurations of closed fishing season. Closure of the whole Inshore Fishing Area (A). Closure of the individual sardinella spawning hotspots (B), and closure covering an area comprising all sardinella spawning hotspots and less extended than the whole IFA (C).  </em>   
 </p>
