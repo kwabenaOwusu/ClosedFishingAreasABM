@@ -13,13 +13,15 @@ A prototype spatially explicit Agent-Based Model (ABM) that captures the main ch
 
 ## Team
 
-Dr. Kwabena Afriyie, Owusu \
-University of Energy and Natural Resources (UENR) \
-Post Office Box 214, Sunyani Ghana, West Africa        
-kwabena@aims.edu.gh 
-	
 Prof. Dr. Agostino Merico \
 Leibniz Centre for Tropical Marine Research \
 Constructor University Bremen \
 Fahrenheitstr. 8, 28359, Bremen, Germany   
 agostino.merico@leibniz-zmt.de
+
+Dr. Kwabena Afriyie, Owusu \
+University of Energy and Natural Resources (UENR) \
+Post Office Box 214, Sunyani Ghana, West Africa        
+kwabena@aims.edu.gh 
+	
+
