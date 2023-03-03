@@ -10,9 +10,9 @@ With this proposal, I plan to adapt a spatially explicit Agent-Based Model (ABM)
 		
 
 <p align="center">
-   <img src="Figure.png" width="500">
+   <img src="Figure.png" width="650">
    <br>      
-      <em>  Flow diagram illustrating the events handled by the agent-based model over a day. The oval, diamonds, and rectangles mark, respectively, the initialization, the decision, and the action occurring during the simulations. The arrow shows the direction of the events.     </em>   
+      <em>  Simulated inshore fishing area reflecting different configurations of closed fishing season. Closure of the whole Inshore Fishing Area (A). Closure of the individual sardinella spawning hotspots (B), and closure covering an area comprising all sardinella spawning hotspots and less extended than the whole IFA (C).  </em>   
 </p>
 
 
