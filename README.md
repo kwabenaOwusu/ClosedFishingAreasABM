@@ -2,17 +2,12 @@
 # *Effects of Configuration, Timing, and Duration of Closed Fishing Areas on the Ecological and Economic Sustainability of the Artisanal Sardinella Fishery in Ghana*
 
 ## Purpose 
-
-This is a prototype of an ABM that I plan to 
-With this proposal, I plan to adapt a spatially explicit Agent-Based Model (ABM) that captures the main characteristics of an idealised artisanal fishery to the specific Ghanaian sardinella case. I will then use the model to investigate the combined effects of different sardinella management policies based on different features of closing, including (1) spatial configurations (closure of whole fishing ground versus closure of spawning hotspots), timing, and duration.  More specifically, I will use the model as a virtual laboratory to determine the policy (in terms of configuration, timing, and duration) that can optimize, simultaneously, ecological and socioecenomic needs. Given that many artisanal fisheries in Africa share various characteristics, this case study can provide indications and inspirations well beyond the local problem in Ghana. 
-
-
+A prototype spatially explicit Agent-Based Model (ABM) that captures the main characteristics of an idealized artisanal fishery to the specific Ghanaian sardinella case. I plan to adapt the model to investigate the combined effects of different sardinella management policies based on different features of closing, including (1) spatial configurations (closure of whole fishing ground versus closure of spawning hotspots), (2) timing, and (3) duration. More specifically, I will use the model as a virtual laboratory to determine the policy (in terms of configuration, timing, and duration) that can optimize, simultaneously ecological and socioeconomic needs. 
 		
-
 <p align="center">
    <img src="Figure.png" width="600">
    <br>      
-      <em>  Simulated inshore fishing area reflecting different configurations of closed fishing season. Closure of the whole Inshore Fishing Area (A). Closure of the individual sardinella spawning hotspots (B), and closure covering an area comprising all sardinella spawning hotspots and less extended than the whole IFA (C).  </em>   
+      <em>  Simulated inshore fishing area reflecting different configurations of closed fishing areas. Closure of the whole Inshore Fishing Area (A). Closure of the individual sardinella spawning hotspots (B), and closure covering an area comprising all sardinella spawning hotspots and less extended than the whole IFA (C).  </em>   
 </p>
 
 
