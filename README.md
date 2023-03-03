@@ -8,7 +8,7 @@ With this proposal, I plan to adapt a spatially explicit Agent-Based Model (ABM)
 <p align="center">
 	<img src="Figure.pdf" width="600">
 	<br>      
-	<em>A standard simulation.</em>   
+	<em>.</em>   
    	</p>
 		
 
