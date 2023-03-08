@@ -4,7 +4,6 @@
 # ### importing necessary libraries 
 
 import shutil, os
-
 import numpy as np
 import pandas as pd
 import math
@@ -106,7 +105,6 @@ def Param_Initialize():
     
 Param_Initialize() 
 
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
 def Regular_Cell():
@@ -142,10 +140,9 @@ def Regular_Cell():
 
 Regular_Cell() 
 
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
-# ## spawning hotspots within eez_12nm 
+### spawning hotspots within eez_12nm 
 def MPA_Characteristics():
     global MPA, Area_MPA, mpa_area, neighbor_cells, MPA_cell_shapefile, MPA_cellx, MPA_ConvexHull, MPA_union, num_mpa 
 
@@ -210,11 +207,9 @@ def MPA_Characteristics():
 
 MPA_Characteristics() 
 
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
-
-# ### initialise fish (in clusters)
+#### initialise fish (in clusters)
 def Fish_Initialize() :
     global fish_geodata
     
@@ -295,7 +290,6 @@ def Fish_Initialize() :
 
 Fish_Initialize() 
 
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
 # ### fish updating (movements and reproduction)
@@ -370,11 +364,10 @@ def Fish_Update() :
             
 Fish_Update() 
 
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
-# ### pirogue tasks
-# #### spatial query function to find points within polygons
+#### pirogue tasks
+#### spatial query function to find points within polygons
 def intersect_using_spatial_index(source_gdf, intersecting_gdf):
     """
     Conduct spatial intersection using spatial index for candidates GeoDataFrame to make queries faster.
@@ -398,10 +391,9 @@ def intersect_using_spatial_index(source_gdf, intersecting_gdf):
     result = possible_matches.loc[possible_matches.intersects(intersecting_gdf.unary_union)]
     return result
 
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
-# #### Initialize pirogues
+#### Initialize pirogues
 def Pirogue_Initialize() :
     global pirogue_geodata, cells_pirogue_movement
 
@@ -432,7 +424,6 @@ def Pirogue_Initialize() :
                 break
                 
 Pirogue_Initialize()
-
 
 #---------------------------------------------------------------------------------------------------------------------------------#
 
@@ -508,10 +499,9 @@ def Pirogue_Update() :
     
 Pirogue_Update() 
 
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
-# ### observing fishing ground
+### observing fishing ground
 def Observe():
     
     fig, ax = plt.subplots(figsize=(16,8))
@@ -597,10 +587,9 @@ def Observe():
 
 Observe()
 
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
-# ### updating fish and pirogues asyncronously
+### updating fish and pirogues asyncronously
 def update_one_time():
     global time, time1
     
@@ -636,7 +625,6 @@ def update_one_time():
         writer.writerow(header)
         writer.writerows(zip(*main_data))  
           
-
 #---------------------------------------------------------------------------------------------------------------------------------#
 
 # ### simulate over a number of time steps
@@ -650,7 +638,6 @@ Observe() # plot to observe
 for j in range(1,5):  
     update_one_time()
     Observe()
-    
 os.system("ffmpeg -v quiet -r 5 -i day_%04d.png -vcodec mpeg4  -y -s:v 1920x1080 updated_mpa_sim_movie.mp4") # convert png files to a movie
 
 
