@@ -559,7 +559,6 @@ def Observe():
     axins.plot(time1,TOTAL_FISH, color='black',linewidth=2)
     axins1.plot(time1,CURRENT_CATCH, color='black',linewidth=2)
     
-    
     # number = 100
     # cmap = plt.get_cmap('gnuplot')
     # colors = [cmap(i) for i in np.linspace(0, 1, number)]
@@ -567,14 +566,12 @@ def Observe():
     #     # print(list(row[1:3]))
     #     axins2.plot(time1,list(row[8:]),linewidth=0.8, color=colors[idx])
 
-    
     axins.set_xlabel('Time (days)',fontsize=12)
     axins.set_ylabel('Fish ($10^3$)',fontsize=12,color='black')
     axins1.set_xlabel('Time (days)',fontsize=12,color='black')
     axins1.set_ylabel('Catch ($10^3$)',fontsize=12,color='black')
     # axins2.set_xlabel('Time (days)',fontsize=12,color='black')
     # axins2.set_ylabel('Ind. catch ($10^3$)',fontsize=12,color='black')
-    
     
     inset_axis = lambda x, _: f'{x/1000:g}' # setting in 10^3
     axins.yaxis.set_major_formatter(inset_axis)
