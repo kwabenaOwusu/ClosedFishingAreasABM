@@ -11,7 +11,7 @@ A spatially explicit Agent-Based Model (ABM) that captures the main characterist
 </p>
 
 ## Note
-Closed_Fishing_Areas.py contains the model code and is the main script to run. It is implemented in python. It will generate three outputs named final_pirogue_geodata.csv, updated_mpa_sim_data.csv, and updated_mpa_sim_movie.mp4 in your working directory containing data on catch/fish abundance dynamics of individual pirogues, aggregated data on catch/fish abundance dynamics, and video of the simulation (as well as snapshots of each computing time step of the simulation).
+Closed_Fishing_Areas.py contains the model code and is the main script to run. It is implemented in python. It will generate three outputs named **final_pirogue_geodata.csv**, **updated_mpa_sim_data.csv**, and **updated_mpa_sim_movie.mp4** in your working directory containing data on catch/fish abundance dynamics of individual pirogues, aggregated data on catch/fish abundance dynamics, and video of the simulation (as well as snapshots of each computing time step of the simulation).
 
 ## Team
 
