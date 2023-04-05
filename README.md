@@ -1,5 +1,5 @@
 
-# *Effects of Configuration, Timing, and Duration of Closed Fishing Areas on the Ecologic and Economic Sustainability of the Artisanal Sardinella Fishery in Ghana*
+# *Effects of Configuration, Timing, and Duration of Closed Fishing Areas on the Ecologic and Economic Sustainability of the Artisanal  <em> Sardinella  <em> Fishery in Ghana*
 
 ## Purpose 
 A prototype spatially explicit Agent-Based Model (ABM) that captures the main characteristics of an idealized artisanal fishery to the specific Ghanaian sardinella case. I plan to adapt this model to investigate the combined effects of different sardinella management policies based on different designs of closing, including (1) spatial configurations (closure of whole fishing ground versus closure of spawning hotspots), (2) timing, and (3) duration. More specifically, I will use the model as a virtual laboratory to determine the policy (in terms of configuration, timing, and duration) that can optimize, simultaneously ecological and socioeconomic needs. 
