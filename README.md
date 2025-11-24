@@ -11,9 +11,9 @@ We developed a spatially explicit ABM that captures the main characteristics of 
       <em>  Simulated inshore fishing area reflecting different configurations of closed fishing areas. Closure of the whole Inshore Fishing Area (A). Closure of the individual sardinella spawning hotspots (B), and closure covering an area comprising all sardinella spawning hotspots and less extended than the whole IFA (C).  </em>   
 </p>
 
-
+<!--
 ## Note
-Closed_Fishing_Areas.py contains the model code and is the main script to run. It is implemented in python. It will generate three outputs named **final_pirogue_geodata.csv**, **updated_mpa_sim_data.csv**, and **updated_mpa_sim_movie.mp4** in your working directory containing data on catch/fish abundance dynamics of individual pirogues, aggregated data on catch/fish abundance dynamics, and video of the simulation (as well as snapshots of each computing time step of the simulation).  
+Closed_Fishing_Areas.py contains the model code and is the main script to run. It is implemented in python. It will generate three outputs named **final_pirogue_geodata.csv**, **updated_mpa_sim_data.csv**, and **updated_mpa_sim_movie.mp4** in your working directory containing data on catch/fish abundance dynamics of individual pirogues, aggregated data on catch/fish abundance dynamics, and video of the simulation (as well as snapshots of each computing time step of the simulation).  -->
 
 ## Team
 
