@@ -23,7 +23,7 @@ kwabena@aims.edu.gh
 
 Prof. Dr. Agostino Merico \
 Leibniz Centre for Tropical Marine Research \
-Constructor University of Bremen, Bremen, Germany   
+University of Bremen, Bremen, Germany   
 agostino.merico@leibniz-zmt.de
 
 Prof. Joseph, Aggrey-Fynn \
