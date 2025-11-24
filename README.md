@@ -5,8 +5,6 @@
 We developed a spatially explicit ABM that captures the main characteristics of the Ghanaian artisanal Sardinella fishery. We used the model to investigate the spatial configurations of fishery closure, the timing (when to implement it) and the duration (for how long it must be in place) of the fishing closures that optimize, simultaneously, economic returns (in terms of catches) and ecologic benefits (in terms of maintaining the fish abundance stocks to sustainable levels) of the Ghanaian artisanal Sardinella fishery. Specifically, we examined the following spatial configurations of fishery closure: no closure of the Inshore Exclusion Zone (IEZ), full closure of the Inshore Exclusion Zone (IEZ), and  closure of Ecologically or Biologically Significant Marine Area (EBSA). The model consists of three main parts: (1) fishing ground, (2) fish agents, and (3) fishing agents. 
 
 
-https://github.com/user-attachments/assets/5c81a216-5c87-4f3b-8cfa-567352c74653
-
 
 
 <!--		
