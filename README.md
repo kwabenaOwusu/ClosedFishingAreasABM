@@ -8,7 +8,7 @@ We developed a spatially explicit ABM that captures the main characteristics of 
 <p align="center">
    <img src="snapshot.png" width="650">
    <br>      
-      <em>  Simulated inshore fishing area reflecting different configurations of closed fishing areas. Closure of the whole Inshore Fishing Area (A). Closure of the individual sardinella spawning hotspots (B), and closure covering an area comprising all sardinella spawning hotspots and less extended than the whole IFA (C).  </em>   
+      <em>  Snapshpot of the simulated fishing ground representing Ghana’s Inshore Exclusive Zone (IEZ).  </em>   
 </p>
 
 <!--
