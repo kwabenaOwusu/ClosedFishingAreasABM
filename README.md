@@ -7,7 +7,7 @@ We developed a spatially explicit ABM that captures the main characteristics of 
 
 
 <video width="600" controls>
-  ClosedFishingAreas/updated_simulation_movie.mp4
+  updated_simulation_movie.mp4
   Your browser does not support the video tag.
 </video>
 
