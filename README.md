@@ -17,15 +17,19 @@ Closed_Fishing_Areas.py contains the model code and is the main script to run. I
 
 ## Team
 
+Dr. Kwabena Afriyie, Owusu \
+University of Energy and Natural Resources (UENR), Ghana, West Africa        
+kwabena@aims.edu.gh 
+
 Prof. Dr. Agostino Merico \
 Leibniz Centre for Tropical Marine Research \
-Constructor University Bremen \
-Fahrenheitstr. 8, 28359, Bremen, Germany   
+Constructor University of Bremen, Bremen, Germany   
 agostino.merico@leibniz-zmt.de
 
-Dr. Kwabena Afriyie, Owusu \
-University of Energy and Natural Resources (UENR) \
-Post Office Box 214, Sunyani Ghana, West Africa        
-kwabena@aims.edu.gh 
+Prof. Joseph, Aggrey-Fynn \
+University of Cape Coast(UCC), Ghana, West Africa        
+jaggrey-fynn@ucc.edu.gh
+
+
 	
 
