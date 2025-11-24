@@ -3,7 +3,7 @@
 
 # ### import libraries 
 
-# In[1]:
+
 
 
 import shutil, os
@@ -140,8 +140,8 @@ def Regular_Cell():
     cells_eez_24nm = gpd.overlay(eez_24nm, cell, how='intersection') # only cells within the ees_24nm
     cells_eez_24nm['area'] = cells_eez_24nm.apply(lambda row: row['geometry'].area, axis=1)
     
-
 Regular_Cell() 
+
 
 # ## ecologically or biologically significant marine area (EBSA)
 def Hotspots_upwelling():
