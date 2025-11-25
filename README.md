@@ -13,7 +13,7 @@ We developed a spatially explicit ABM that captures the main characteristics of 
 
 <!--
 ## Note
-Closed_Fishing_Areas.py contains the model code and is the main script to run. It is implemented in python. It will generate three outputs named **final_pirogue_geodata.csv**, **updated_mpa_sim_data.csv**, and **updated_mpa_sim_movie.mp4** in your working directory containing data on catch/fish abundance dynamics of individual pirogues, aggregated data on catch/fish abundance dynamics, and video of the simulation (as well as snapshots of each computing time step of the simulation).  -->
+Closed_Fishing_Areas.py contains the model code and is the main script to run. It is implemented in python. It will generate three outputs named **final_pirogue_geodata.csv**, **updated_mpa_sim_data.csv**, and **updated_mpa_sim_movie.mp4** in your working directory containing data on catch/fish abundance dynamics of individual pirogues, aggregated data on catch/fish abundance dynamics, and video of the simulation (as well as snapshots of each computing time step of the simulation). 
 
 ## Team
 
@@ -24,7 +24,7 @@ kwabena@aims.edu.gh
 Prof. Dr. Agostino Merico \
 Leibniz Centre for Tropical Marine Research \
 University of Bremen, Bremen, Germany   
-agostino.merico@leibniz-zmt.de
+agostino.merico@leibniz-zmt.de   -->
 
 Prof. Joseph, Aggrey-Fynn \
 University of Cape Coast(UCC), Ghana, West Africa        
